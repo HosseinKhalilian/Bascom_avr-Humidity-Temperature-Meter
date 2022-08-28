@@ -18,7 +18,7 @@ The sensor used in this case is a Digital humidity and temperature sensor SHT10.
 
 <p align="center">
 <a href="./LICENSE.md">
-<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Humidity & Temperature Meter?style=badge">
+<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Humidity-Temperature-Meter?style=badge">
 </a>
 <a href="https://www.mcselec.com/">
 <img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
