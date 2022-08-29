@@ -1,4 +1,4 @@
-# Bascom_avr-Humidity & Temperature Meter
+# AVR Humidity & Temperature Meter
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
